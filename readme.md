@@ -1,0 +1,1 @@
+CNSCC363: Security and Risk Coursework keyboard logger, for academic study purposes only. I will not use this program for any illegal or computer security detrimental purposes and am not responsible for other misuse of this code
